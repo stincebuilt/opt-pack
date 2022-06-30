@@ -1,2 +1,2 @@
 # opt-pack
-Include up-to-date packages on helpful tools for the optimization process!
+Include up-to-date packages on tools utilized for the FPS optimization process!
