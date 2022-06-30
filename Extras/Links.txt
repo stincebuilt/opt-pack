@@ -1,0 +1,15 @@
+GPU:
+AMD Driver - https://www.amd.com/en/support
+Advanced NVIDIA Driver - https://www.nvidia.com/Download/Find.aspx
+
+Cooling Software:
+L-Connect - https://lian-li.com/l-connect3/
+iCUE - https://www.corsair.com/us/en/downloads
+Fan Control - https://github.com/rem0o/fancontrol.releases
+
+RGB Software:
+SignalRGB - https://www.signalrgb.com/download/
+
+Recording Software:
+MedalTV - https://medal.tv/download
+Outplayed - https://go.overwolf.com/outplayed/
