@@ -1,0 +1,41 @@
+BEFORE PURCHASING A LICENSE FOR THAIPHOON BURNER, IT IS STRONGLY RECOMMENDED
+TO BE AWARE OF THE FOLLOWING:
+----------------------------------------------------------------------------
+1. The first time you run Thaiphoon Burner on Windows 7/8/10 with enabled UAC, 
+please let the driver to be installed by selecting the “Run as administrator” 
+command of a context menu of Thaiphoon.exe file.
+
+2. WARNING! Samsung, Hynix, Elixir/Nanya, Silicon Power, Crucial (SO-DIMM),
+Patriot (SO-DIMM) and Micron Technology are used to write-protect the first 
+128 bytes of the 2-Kbit SPD EEPROM chip for all DDR2/DDR3 DRAM modules and 
+the first 384 bytes of the 4-Kbit SPD EEPROM of all DDR4 DRAM modules. This 
+limitation does not allow changing JEDEC timings, frequencies and other 
+technical parameters of the module. However, you can write one or two XMP 
+profiles to the user programmble area of SPD.
+
+3. Before purchasing a license, please make sure your DRAM modules are not 
+write-protected. Otherwise you will not be paid a refund. You can use Data 
+Protection Test (EEPROM -> Data Protection Test) to ensure the SPD EEPROM 
+chip of your modules is not write-protected. Thaiphoon Burner does not have 
+tools to clear SPD write protection.
+
+4. WARNING! It is not possible to read and write SPD with Thaiphoon Burner 
+when running from within a virtual machine. 
+
+5. In order to generate your license MyCommerce/Share-It! Service requires 
+from you to provide the Registration Number of your Thaiphoon Burner DEMO 
+copy. Otherwise, you will not obtain your licensing information and the 
+download link to the full version of the program.
+
+6. Make sure Thaiphoon Burner is capable of reading SPD. Otherwise it is not
+recommended to purchase a license since Showshock Softnology will unable to 
+pay a refund in this case.
+
+7. This software does not fix hardware failures of RGB-capable DDR4 DRAM modules 
+like Trident Z or Vengeance RGB. The program can restore corrupted SPD data to 
+the initial state only.
+
+8. To be able to receive answers from support@softnology.biz, please add this
+email address to the list of permitted emails. Please take into consideration 
+that Showshock Softnology does not reply to emails registered at hotmail.com, 
+outlook.com and live.com.
