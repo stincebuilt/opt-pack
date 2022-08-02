@@ -1,0 +1,22 @@
+2022-08-02 14:06:51.6330|INFO|DS4Windows version 3.1.1
+2022-08-02 14:06:51.6330|INFO|DS4Windows exe file: DS4Windows.exe
+2022-08-02 14:06:51.6330|INFO|DS4Windows Assembly Architecture: x64
+2022-08-02 14:06:51.6330|INFO|OS Version: Microsoft Windows NT 10.0.19044.0
+2022-08-02 14:06:51.6330|INFO|OS Product Name: Windows 10 Education
+2022-08-02 14:06:51.6330|INFO|OS Release ID: 2009
+2022-08-02 14:06:51.6330|INFO|System Architecture: x64
+2022-08-02 14:06:51.6330|INFO|Logger created
+2022-08-02 14:06:51.6478|INFO|No config found. Creating default config
+2022-08-02 14:06:51.6822|INFO|Default config created
+2022-08-02 14:06:51.7148|INFO|LinkedProfiles.xml can't be found.
+2022-08-02 14:06:52.2601|INFO|Running as User
+2022-08-02 14:06:53.3299|INFO|Starting...
+2022-08-02 14:06:53.3299|INFO|Using output KB+M handler: SendInput
+2022-08-02 14:06:53.3299|INFO|Connection to ViGEmBus 1.17.333.0 established
+2022-08-02 14:06:53.3299|INFO|Searching for controllers...
+2022-08-02 14:06:53.3299|INFO|Using Shared Mode
+2022-08-02 14:07:11.9124|INFO|Request App Shutdown
+2022-08-02 14:07:11.9124|INFO|Stopping Virtual Output Controllers
+2022-08-02 14:07:11.9124|INFO|Closing connection to ViGEmBus
+2022-08-02 14:07:11.9124|INFO|Stopping DS4 Input Controllers
+2022-08-02 14:07:11.9124|INFO|Stopped DS4Windows

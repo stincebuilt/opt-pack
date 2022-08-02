@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v5.0",
+    "name": ".NETCoreApp,Version=v6.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v5.0": {
-      "XInputChecker/0.1.2": {
+    ".NETCoreApp,Version=v6.0": {
+      "XInputChecker/0.1.4": {
         "dependencies": {
           "SharpDX.XInput": "4.2.0"
         },
@@ -706,7 +706,7 @@
     }
   },
   "libraries": {
-    "XInputChecker/0.1.2": {
+    "XInputChecker/0.1.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
