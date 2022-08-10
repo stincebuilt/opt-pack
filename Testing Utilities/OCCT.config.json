@@ -129,7 +129,13 @@
       "LocationIndex": 0
     }
   ],
-  "EnabledOtherSensors": [],
+  "EnabledOtherSensors": [
+    {
+      "DeviceName": "Windows Hardware Errors (WHEA)",
+      "Name": "Total Errors",
+      "LocationIndex": 0
+    }
+  ],
   "MonitoringUpdateInterval": 2,
   "MonitoringUpdateIntervalUnit": "Seconds",
   "GraphUpdateInterval": 2,
@@ -150,7 +156,7 @@
   "MotherboardName": "MSI MEG Z490 UNIFY (MS-7C71)",
   "SelectedComponentUsage": "System",
   "TestingAreaDisplayMode": "TableAndGraph",
-  "TestingAreaSensorClass": "Temperature",
+  "TestingAreaSensorClass": "Frequency",
   "TestingAreaTableConfig": {
     "SensorGroup": "DeviceType",
     "SortDescription": {
@@ -205,13 +211,13 @@
     "StabilityCertificateType": "System",
     "Periods": [
       {
-        "Duration": "00:30:00",
+        "Duration": "01:00:00",
         "Version": "800",
-        "IsInfinite": true,
+        "IsInfinite": false,
         "TestType": "CpuOcct",
         "CpuOcctConfig": {
-          "DataSet": "Large",
-          "OcctInstructionSet": "Auto",
+          "DataSet": "Small",
+          "OcctInstructionSet": "Sse",
           "LoadType": "Variable",
           "Mode": "Normal",
           "Threads": "Auto",
@@ -270,7 +276,7 @@
           "MemoryMemUnit": "Percent"
         },
         "PowerSupplyConfig": {
-          "CpuOcctInstructionSet": "Auto",
+          "CpuOcctInstructionSet": "Avx2",
           "GpuIndexes": []
         },
         "CpuBenchmarkConfig": {
