@@ -3,7 +3,7 @@
   "WindowTop": 50,
   "WindowLeft": 50,
   "WindowWidth": 1525,
-  "WindowHeight": 900,
+  "WindowHeight": 850,
   "IsWindowMaximized": false,
   "IsMonitoringExpanded": true,
   "EnabledTemperatureSensors": [
@@ -156,7 +156,7 @@
   "MotherboardName": "MSI MEG Z490 UNIFY (MS-7C71)",
   "SelectedComponentUsage": "System",
   "TestingAreaDisplayMode": "TableAndGraph",
-  "TestingAreaSensorClass": "Frequency",
+  "TestingAreaSensorClass": "Temperature",
   "TestingAreaTableConfig": {
     "SensorGroup": "DeviceType",
     "SortDescription": {
@@ -214,7 +214,7 @@
         "Duration": "01:00:00",
         "Version": "800",
         "IsInfinite": false,
-        "TestType": "CpuOcct",
+        "TestType": "Gpu3D",
         "CpuOcctConfig": {
           "DataSet": "Small",
           "OcctInstructionSet": "Sse",
